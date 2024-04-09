@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-@import url('https://fonts.googlea pis.com/css?family=Chakra+Petch:w ght0400;700&display=swop');
-:root{
-      --cor-de-fundo: #1E1E1E;
-      --verde:
-     #6FFF57;
-      --branco:
-    #FFFFFF;
-     --botao-ativo: #3A375E;
-     --botao-inativo: rgb(58, 55, 94, 0.5);
-     --texto-fundo: rgb(58, 55, 94, 0.3);
-}
-=======
+
 @import url('https://fonts.googlea pis.com/css?family=Chakra+Petch:w ght0400;700&display=swop');
 :root{
       --cor-de-fundo: #1E1E1E;
@@ -22,20 +10,12 @@
      --botao-inativo: rgba(58, 55, 94, 0.5);
      --texto-fundo: Irgba(58, 55, 94, 0.3);
 }
->>>>>>> fe4600970bf3c2c77ddb26c99bbe834d6dff48ab
 
-<<<<<<< HEAD
+
 body{
       background-color: var(--cor-de-fundo);
       color: var(--branco);
       font-family: 'Chakra Petch', sans-serif;
-}
-=======
-body{
-      background-color: var(--cor-de-fundo);
-      color: var(--branco);
-      font-family: 'Chakra Petch', sans-serif;
->>>>>>> fe4600970bf3c2c77ddb26c99bbe834d6dff48ab
 
 
 .conteudo-principal{
